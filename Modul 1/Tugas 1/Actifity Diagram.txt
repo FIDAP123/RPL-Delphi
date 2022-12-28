@@ -1,0 +1,8 @@
+Swimlane = Untuk membuat UML dan menambahkan Actor(Pengakses sistem)
+Initial node = Start UML 
+Action = elemen unit yang merepresentasikan proses dari pemodelan sistem
+Merge Node = (merepresentasikan if else)menggabungkan elemen unit kemudian mengeluarkan 1 output
+Decition = (merepresentasikan elif)menerima 1 elemet unit kemudian bisa memberikan banyak output
+Join Node = mennggabungkan elemen
+Fork Node = percabangan elemen 
+Final node = End UML
